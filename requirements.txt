@@ -5,7 +5,7 @@ Numpy
 opencv-contrib-python ==   4.5.5.64
 opencv-python ==   4.5.5.64
 Pandas ==   1.4.2
-scikit-learn ==   1.0.2
+scikit-learn ==   1.1.1
 tensorflow-gpu ==   2.6.0
 Imutils ==   0.5.4
 PyTorch ==   1.11.0
