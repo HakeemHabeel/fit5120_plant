@@ -1,0 +1,2 @@
+python == 3.9.19
+setuptools == 63.4.1
