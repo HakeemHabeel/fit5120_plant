@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Upload</title>
+</head>
+<body>
+    <h2>Upload an Image</h2>
+    <form method="POST" enctype="multipart/form-data" action="http://localhost:8000/upload">
+        <input type="file" name="file" accept="image/*"> <!-- Change the name attribute to 'file' -->
+        <input type="submit" value="Upload">
+    </form>
+</body>
+</html>
