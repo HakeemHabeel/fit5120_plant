@@ -1,8 +1,7 @@
-setuptools
 Flask==1.1.2
 Flask-Reuploaded==0.3.2
 Matplotlib ==   3.5.1
-Numpy ==   1.19.2
+Numpy
 opencv-contrib-python ==   4.5.5.64
 opencv-python ==   4.5.5.64
 Pandas ==   1.4.2
