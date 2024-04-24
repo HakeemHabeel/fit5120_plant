@@ -1,7 +1,5 @@
 Flask==1.1.2
-Matplotlib ==   3.7.1
 Numpy
-Pandas
 scikit-learn == 1.2.2
 tensorflow
 
