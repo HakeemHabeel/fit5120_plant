@@ -1,4 +1,3 @@
-Flask==1.1.2
+Flask >= 2.0
 Numpy
-tensorflow == 2.15.0
-
+tensorflow == 2.16.1
